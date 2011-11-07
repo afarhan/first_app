@@ -1,5 +1,6 @@
-# Ruby on rails
+# ruby on rails
 
-This is my test of how rails 3 works.
+This is a test read me file
+With an addition
 
-Farhan
+by farhan
